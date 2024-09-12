@@ -8,7 +8,7 @@ I am Luca Andrei, a fresh law graduate with a desire to transition into the cybe
 
 I have completed the Google IT Support and Cybersecurity Professional Certificate to pursue my passion for technology and cybersecurity. The Google IT Support and Cybersecurity Professional Certificate has prepared me for industry-ready jobs. My ultimate goal is to become a Security Analyst. This role suits me because I have strong analytical abilities, persistence, eagerness to learn, a can-do attitude, problem-solving skills, and communication skills to address problems and emerging threats.
 
-As of 2024, I am preparing to take the `Linux Foundation Certified Associate (LFCA)`, `CompTIA A+`, and `CompTIA Security+` certifications.
+As of 2024, I am preparing to take the `CompTIA Security+` certifications.
 
 ## Portfolio
 > Please visit this [link](https://www.coursera.org/professional-certificates/google-cybersecurity) for further information.
@@ -54,17 +54,6 @@ Several tools that I used:
 * Splunk
 * Suricata
 * Python 
-
-### Other references 
-Please have a look on other standalone portfolio that I published: 
-* Python - Cybersecurity - [Bruteforce Zipfile](https://github.com/Kwangsa19/Python-Cybersecurity-Bruteforce-zipfile)
-* Python - Cybersecurity - [Automation Case](https://github.com/Kwangsa19/Python-Cybersecurity-Automation-Case)
-* Python - Cybersecurity - [Transaction Fraud](https://github.com/Kwangsa19/Python-Cybersecurity-Transaction-Fraud) 
-* Cybersecurity - Investigation & Risk Assessment Based on [MITRE ATT&CK Framework and Open-Source Intelligence (OSINT)](https://github.com/Kwangsa19/Cybersecurity-Investigation-Risk-Report)
-
-and more....
-
-**Stay tuned for updates!**
 
 This portfolio will continuously grow as I complete more certificates and projects. I encourage you to visit again to see my progress and learn more about my skills and experience.
 Thank you for your time. For more information, please connect with me on [Linkedin](https://www.linkedin.com/in/lucaandreicyb/).
